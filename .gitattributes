@@ -1,2 +1,0 @@
-lib/win32/util.lib filter=lfs diff=lfs merge=lfs -text
-lib/win32/utild.lib filter=lfs diff=lfs merge=lfs -text
